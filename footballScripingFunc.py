@@ -135,4 +135,3 @@ def print_data_彩客网(dic):
         print(data)
         for i in dic[data]:
             print(i, dic[data][i])
-   
